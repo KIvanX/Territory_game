@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Территории</string>
+    <string name="button_text">Новая игра</string>
+    <string name="level_text">Уровень %d</string>
+</resources>
